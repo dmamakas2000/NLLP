@@ -87,3 +87,6 @@ For any UNIX server, please follow these steps:
 1. Make the bash script executable using `chmod`. For example, `chmod +x run_ecthr_TF_IDF_SRT_Legal_BERT.sh`.
 
 1. Execute the bash script. For example, `./run_ecthr_TF_IDF_SRT_Legal_BERT.sh`.
+
+## License
+This project is licensed under the **Apache 2.0 License** - see the **[LICENSE](LICENSE)** file for details.
